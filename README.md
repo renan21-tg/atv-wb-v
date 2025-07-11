@@ -3,7 +3,7 @@
 Node.js: v22.14.0 <br>
 MySQL:  8.0.40
 
-# Front-end
+# Frontend
 
 ## Instalando o projeto
 
@@ -20,7 +20,7 @@ MySQL:  8.0.40
     npm run dev
 
 
-# Back-end
+# Backend
 
 ## Instalando o projeto
 
